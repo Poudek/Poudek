@@ -36,6 +36,7 @@ Aqui estão alguns dos principais projetos que desenvolvi ou que estão ganhando
 * **⏰ Projeto Ponto:** *Sistema de gerenciamento e marcação de ponto eletrônico.*
 * **💈 Projeto Barbearia:** *Sistema para agendamento de horários e gerenciamento financeiro de negócio.*
 * **🛠️ Projeto Ravel (Em Desenvolvimento):** *Sistema de gerenciamento e acompanhamento nutricional.*
+* **🛠️ Projeto GymFlow (Em Desenvolvimento):** *Sistema ERP para gerenciamento de academias.*
 
 ---
 
