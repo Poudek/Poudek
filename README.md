@@ -42,5 +42,5 @@ Aqui estão alguns dos principais projetos que desenvolvi ou que estão ganhando
 
 ## 📫 Conecte-se comigo
 
-[![linkedin.com/in/wesley-costa-4a7672219/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![wesleypoudek11@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![linkedin.com/in/wesley-costa-4a7672219/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-costa-4a7672219)
+[![wesleypoudek11@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleypoudek11@gmail.com)
